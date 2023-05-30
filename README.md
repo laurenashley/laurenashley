@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3>Github Statistics</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenashley&show_icons=true&rank_icon=github&theme=transparent)]
+
 
 <!--
 **laurenashley/laurenashley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4>This profile readme was made with:</h4>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">Anurag's GitHub stats</a>
