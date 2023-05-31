@@ -1,6 +1,15 @@
-<h3>Github Statistics</h3>
+<h2>🌱 I’m currently learning ...</h2>
+<ul>
+  <li>Machine Learning</li>
+  <li>Data Science</li>
+  <li>How to finesse the backend using Express and React</li>
+</ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenashley&show_icons=true&rank_icon=github&theme=transparent)
+<h2>👯 I’m looking to collaborate on ...</h2>
+<ul>
+  <li>Ml and AI projects</li>
+  <li>React/Next projects</li>
+</ul>
 
 <h3>Languages</h3>
 
@@ -39,6 +48,11 @@
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=#F05032)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+<h3>Github Statistics</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenashley&show_icons=true&rank_icon=github&theme=transparent)
+
 
 <!--
 **laurenashley/laurenashley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
