@@ -7,7 +7,7 @@
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <ul>
-  <li>Ml and AI projects</li>
+  <li>ML and AI projects</li>
   <li>React/Next projects</li>
 </ul>
 
