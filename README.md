@@ -62,8 +62,7 @@
 <h3>Github Statistics</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenashley&show_icons=true&rank_icon=github&theme=transparent) 
--->
-
 
 <h4>This profile readme was made with:</h4>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">Anurag's GitHub stats</a>
+-->
