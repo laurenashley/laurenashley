@@ -1,3 +1,11 @@
+<h1>👩‍💻 Full Stack Developer | Front End Enthusiast | Passionate about AI 🤖</h1>
+
+<p>After a rewarding journey as a stay-at-home mom, I'm thrilled to dive back into the tech world with a renewed passion. Raising my young children has been the most fulfilling experience, teaching me patience, resilience, and the art of multitasking – qualities I carry with me in my tech career.</p>
+
+<p>With a strong background in full stack development, my heart belongs to the front-end. Crafting seamless user experiences that leave a lasting impact is my forte. I'm on a mission to bridge my love for AI with my coding skills, aiming to make innovative contributions in the field.</p>
+
+<p>Whether I'm coding with a team or collaborating in my personal community as a parent, I'm dedicated to excellence. Let's connect and explore the exciting possibilities in the tech space together! 🌟 #CodeWithPassion</p>
+
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
   <li>Machine Learning</li>
