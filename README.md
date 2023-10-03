@@ -58,9 +58,11 @@
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+<!--
 <h3>Github Statistics</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenashley&show_icons=true&rank_icon=github&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenashley&show_icons=true&rank_icon=github&theme=transparent) 
+-->
 
 
 <h4>This profile readme was made with:</h4>
