@@ -8,6 +8,7 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
+  <li>Prompt Engineering</li>
   <li>Machine Learning</li>
   <li>Data Science</li>
   <li>How to finesse the backend using Express and React</li>
