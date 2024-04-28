@@ -4,7 +4,7 @@
 
 <p>With a strong background in full stack development, my heart belongs to the front-end. Crafting seamless user experiences that leave a lasting impact is my forte. I'm on a mission to bridge my love for AI with my coding skills, aiming to make innovative contributions in the field.</p>
 
-<p>Whether I'm coding with a team or collaborating in my personal community as a parent, I'm dedicated to excellence. Let's connect and explore the exciting possibilities in the tech space together! 🌟 #CodeWithPassion</p>
+<p>Whether I'm coding with a team or working independently, I'm dedicated to excellence. Let's connect and explore the exciting possibilities in the tech space together! 🌟 #CodeWithPassion</p>
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
@@ -27,21 +27,25 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=green)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=transparent)](https://www.ruby-lang.org/en/)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h3>Frameworks, Libraries & Environments</h3>
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 [![Rails](https://img.shields.io/badge/rubyonrails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![MAMP](https://img.shields.io/badge/MAMP-02749C?style=for-the-badge&logo=mamp&logoColor=white)](https://rubyonrails.org/)
 [![ActiveRecord](https://img.shields.io/badge/-ActiveRecord-CC0000?style=for-the-badge&logo=ActiveRecord&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <h3>Testing</h3>
 
@@ -58,6 +62,7 @@
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=#F05032)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 <!--
 <h3>Github Statistics</h3>
