@@ -76,7 +76,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <h2>Find me on:</h2>
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]([https://www.upwork.com/freelancers/](https://www.upwork.com/freelancers/~01e7344bf6734d1a66?mp_source=share))
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e7344bf6734d1a66?mp_source=share)
 
 <!--
 <h3>Github Statistics</h3>
