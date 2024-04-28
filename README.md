@@ -75,7 +75,10 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-<h2>Find me on:</h2>
+<h2>Connect with me on:</h2>
+<a href="https://www.linkedin.com/in/laurenashleyzaubi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <a href="https://www.upwork.com/freelancers/~01e7344bf6734d1a66?mp_source=share">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
 </a>
