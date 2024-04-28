@@ -75,6 +75,11 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+<h2>Find me on:</h2>
+<a href='https://www.upwork.com/freelancers/~01e7344bf6734d1a66?mp_source=share'>
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+</a>
+
 <!--
 <h3>Github Statistics</h3>
 
