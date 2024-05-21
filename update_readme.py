@@ -10,7 +10,7 @@ for gist in gists:
 
 # Format gists into a list
 gist_md = '<ul>\n'
-for gist in filtered_gists:
+for gist in filtered_gists[:6]:
   for filename in gist['files'].items():
     gist_md += f"  <li><a href=\"{gist['html_url']}\">{filename[0]}</a>\n"
     gist_md += f"    <p>{gist['description']}</p>\n"
