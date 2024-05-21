@@ -22,7 +22,7 @@ jobs:
           python update_readme.py
       
       - name: Commit changes
-        uses: laurenashley/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with: 
           commit_message: "Update README with my latest gists"
           branch: main
