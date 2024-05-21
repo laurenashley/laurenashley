@@ -26,3 +26,5 @@ jobs:
         with: 
           commit_message: "Update README with my latest gists"
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
