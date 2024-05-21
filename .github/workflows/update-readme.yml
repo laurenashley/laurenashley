@@ -16,6 +16,7 @@ jobs:
         id: fetch-gists
         run: |
           curl -s "https://api.github.com/users/laurenashley/gists" > gists.json
+          cat gists.json  # Print the contents of gists.json for debugging purposes
 
       - name: Update README
         run: |
