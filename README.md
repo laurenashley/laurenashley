@@ -28,6 +28,27 @@ Brought to you via my first GitHub Actions Workflow:
   <li><a href="https://gist.github.com/laurenashley/a2641d295e239351a3368c4ca8cf9614">This is Jeopardy.ipynb</a>
     <p>Data analyzation project from Codecademy ML/AI Foundations course</p>
   </li>
+</ul>
+
+<ul>
+  <li><a href="https://gist.github.com/laurenashley/f54a1f365cb0f636199bc72a735df4ec">index.tsx</a>
+    <p>Code sample: React Transfer List using TypeScript</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/84af0c1df676b5c1b63f6a877f85849e">wrapper_methods.ipynb</a>
+    <p>Project: Feature Engineering Wrapper Methods / Codecademy ML AI Engineering Career Path</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/bc40fa45919c60a352cfa9daecb1a343">tennis_ace_challenge.py</a>
+    <p>Create a linear regression model that predicts the outcome for a tennis player based on their playing habits. By analyzing and modeling the Association of Tennis Professionals (ATP) data, you will determine what it takes to be one of the best tennis players in the world.</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/49d84843c1b655c371e3b7999cdd8f25">ProductDefects.ipynb</a>
+    <p>Exercise in probability distribution from Codecademy Machine Learning and AI Foundations course</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/b35363c1c13817366821c280e5733617">Codecademy_NBA_Trends_Project.ipynb</a>
+    <p>Analyze National Basketball Association (NBA) data to look at associations between teams, win-rates, playoff appearances, and more.</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/a2641d295e239351a3368c4ca8cf9614">This is Jeopardy.ipynb</a>
+    <p>Data analyzation project from Codecademy ML/AI Foundations course</p>
+  </li>
   <li><a href="https://gist.github.com/laurenashley/f54a1f365cb0f636199bc72a735df4ec">index.tsx</a>
     <p>Code sample: React Transfer List using TypeScript</p>
   </li>
