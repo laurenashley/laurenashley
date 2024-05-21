@@ -6,6 +6,10 @@
 
 <p>Whether I'm coding with a team or working independently, I'm dedicated to excellence. Let's connect and explore the exciting possibilities in the tech space together! 🌟 #CodeWithPassion</p>
 
+<h2>My Latest Gists</h2>
+Brought to you via my first GitHub Actions Workflow:
+<!-- gists -->
+
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
   <li>Prompt Engineering</li>
