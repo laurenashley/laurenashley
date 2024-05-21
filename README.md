@@ -51,6 +51,48 @@ Brought to you via my first GitHub Actions Workflow:
   </li>
 </ul>
 
+<ul>
+  <li><a href="https://gist.github.com/laurenashley/f54a1f365cb0f636199bc72a735df4ec">('index.tsx', {'filename': 'index.tsx', 'type': 'text/plain', 'language': 'TSX', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/f54a1f365cb0f636199bc72a735df4ec/raw/bf4672ff9ea4bfa4e56d9fdc0e63354d94ba0294/index.tsx', 'size': 3295})</a>
+    <p>Code sample: React Transfer List using TypeScript</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/84af0c1df676b5c1b63f6a877f85849e">('wrapper_methods.ipynb', {'filename': 'wrapper_methods.ipynb', 'type': 'text/plain', 'language': 'Jupyter Notebook', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/84af0c1df676b5c1b63f6a877f85849e/raw/72ce8bd262912e973cdfb9d1d6864f2b1028858e/wrapper_methods.ipynb', 'size': 73118})</a>
+    <p>Project: Feature Engineering Wrapper Methods / Codecademy ML AI Engineering Career Path</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/bc40fa45919c60a352cfa9daecb1a343">('tennis_ace_challenge.py', {'filename': 'tennis_ace_challenge.py', 'type': 'application/x-python', 'language': 'Python', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/bc40fa45919c60a352cfa9daecb1a343/raw/3a8adc2e2774784566178182de908a568b7f63ed/tennis_ace_challenge.py', 'size': 2840})</a>
+    <p>Create a linear regression model that predicts the outcome for a tennis player based on their playing habits. By analyzing and modeling the Association of Tennis Professionals (ATP) data, you will determine what it takes to be one of the best tennis players in the world.</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/49d84843c1b655c371e3b7999cdd8f25">('ProductDefects.ipynb', {'filename': 'ProductDefects.ipynb', 'type': 'text/plain', 'language': 'Jupyter Notebook', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/49d84843c1b655c371e3b7999cdd8f25/raw/f79109993b1571b2285f3f1923e89d62bc70fa00/ProductDefects.ipynb', 'size': 11224})</a>
+    <p>Exercise in probability distribution from Codecademy Machine Learning and AI Foundations course</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/b35363c1c13817366821c280e5733617">('Codecademy_NBA_Trends_Project.ipynb', {'filename': 'Codecademy_NBA_Trends_Project.ipynb', 'type': 'text/plain', 'language': 'Jupyter Notebook', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/b35363c1c13817366821c280e5733617/raw/1b4804b0415b629e9b4f96d618f091525e42d20a/Codecademy_NBA_Trends_Project.ipynb', 'size': 130367})</a>
+    <p>Analyze National Basketball Association (NBA) data to look at associations between teams, win-rates, playoff appearances, and more.</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/a2641d295e239351a3368c4ca8cf9614">('This is Jeopardy.ipynb', {'filename': 'This is Jeopardy.ipynb', 'type': 'text/plain', 'language': 'Jupyter Notebook', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/a2641d295e239351a3368c4ca8cf9614/raw/6561a700b1858ab591594921ec72b38dcc559c1e/This%20is%20Jeopardy.ipynb', 'size': 17059})</a>
+    <p>Data analyzation project from Codecademy ML/AI Foundations course</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/b135997fb62dffc33efd3d98afd5cab9">('Page_Funnel_Visits.ipynb', {'filename': 'Page_Funnel_Visits.ipynb', 'type': 'text/plain', 'language': 'Jupyter Notebook', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/b135997fb62dffc33efd3d98afd5cab9/raw/97bd1190e42feabc9bbc6b4c1f8f89e12ac7e717/Page_Funnel_Visits.ipynb', 'size': 21291})</a>
+    <p>Analyze user activity in e-commerce website, lesson from Codecademy </p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/cde39b8d5b509176258a2d43bc1519a0">('Hurricane Analysis.ipynb', {'filename': 'Hurricane Analysis.ipynb', 'type': 'text/plain', 'language': 'Jupyter Notebook', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/cde39b8d5b509176258a2d43bc1519a0/raw/819e7fa682d5dfc0266bd4ac6b4a045dd2ba0dd2/Hurricane%20Analysis.ipynb', 'size': 44164})</a>
+    <p>My Hurricane Analysis from Codecademy python exercise</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/ecd702b916e1b9e53522784ef7741e92">('sumArrayRecursively', {'filename': 'sumArrayRecursively', 'type': 'text/plain', 'language': None, 'raw_url': 'https://gist.githubusercontent.com/laurenashley/ecd702b916e1b9e53522784ef7741e92/raw/d78aa681a2c46d2b00bf7d3f435ad4ba7e047710/sumArrayRecursively', 'size': 334})</a>
+    <p>Make sumItems a function that sums all the numbers in an array. So if you input the array [1, 2, 3, 4, 5], the function will return 15. This will be your base case.</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/4f7ddef08118687ce110500a77fc5bad">('closures.js', {'filename': 'closures.js', 'type': 'text/javascript', 'language': 'JavaScript', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/4f7ddef08118687ce110500a77fc5bad/raw/194defa33902751007524bfc9dfb80558bfce982/closures.js', 'size': 901})</a>
+    <p>Exercise in using closures</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/693933ea7e05865eb4523161990954ac">('advancedSort.js', {'filename': 'advancedSort.js', 'type': 'text/javascript', 'language': 'JavaScript', 'raw_url': 'https://gist.githubusercontent.com/laurenashley/693933ea7e05865eb4523161990954ac/raw/718ff7a299efaa0a2712fd032eb2bc614bb45b8e/advancedSort.js', 'size': 654})</a>
+    <p>Write a sorting function (sometimes called a custom comparator), that sorts the above array first by the name ascending alphabetically, and in cases where the names are equal sort by descending age.</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/39a89bbdfa6b53c8dbc42a2d349c2d20">('nameInverter', {'filename': 'nameInverter', 'type': 'text/plain', 'language': None, 'raw_url': 'https://gist.githubusercontent.com/laurenashley/39a89bbdfa6b53c8dbc42a2d349c2d20/raw/98ef7e91ef9d5281fd155fc1645ca1965a5defe7/nameInverter', 'size': 667})</a>
+    <p>returns name with second name first</p>
+  </li>
+  <li><a href="https://gist.github.com/laurenashley/39a89bbdfa6b53c8dbc42a2d349c2d20">('nameInverterTest', {'filename': 'nameInverterTest', 'type': 'text/plain', 'language': None, 'raw_url': 'https://gist.githubusercontent.com/laurenashley/39a89bbdfa6b53c8dbc42a2d349c2d20/raw/18146471ce865a488ee751a8d8b27f4f0531c02e/nameInverterTest', 'size': 2539})</a>
+    <p>returns name with second name first</p>
+  </li>
+</ul>
+
 - [Code sample: React Transfer List using TypeScript](https://api.github.com/gists/f54a1f365cb0f636199bc72a735df4ec)
 - [Project: Feature Engineering Wrapper Methods / Codecademy ML AI Engineering Career Path](https://api.github.com/gists/84af0c1df676b5c1b63f6a877f85849e)
 - [Create a linear regression model that predicts the outcome for a tennis player based on their playing habits. By analyzing and modeling the Association of Tennis Professionals (ATP) data, you will determine what it takes to be one of the best tennis players in the world.](https://api.github.com/gists/bc40fa45919c60a352cfa9daecb1a343)
