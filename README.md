@@ -9,6 +9,19 @@
 <h2>My Latest Gists</h2>
 Brought to you via my first GitHub Actions Workflow:
 <!-- gists -->
+- [Code sample: React Transfer List using TypeScript](https://api.github.com/gists/f54a1f365cb0f636199bc72a735df4ec)
+- [Project: Feature Engineering Wrapper Methods / Codecademy ML AI Engineering Career Path](https://api.github.com/gists/84af0c1df676b5c1b63f6a877f85849e)
+- [Create a linear regression model that predicts the outcome for a tennis player based on their playing habits. By analyzing and modeling the Association of Tennis Professionals (ATP) data, you will determine what it takes to be one of the best tennis players in the world.](https://api.github.com/gists/bc40fa45919c60a352cfa9daecb1a343)
+- [Exercise in probability distribution from Codecademy Machine Learning and AI Foundations course](https://api.github.com/gists/49d84843c1b655c371e3b7999cdd8f25)
+- [Analyze National Basketball Association (NBA) data to look at associations between teams, win-rates, playoff appearances, and more.](https://api.github.com/gists/b35363c1c13817366821c280e5733617)
+- [Data analyzation project from Codecademy ML/AI Foundations course](https://api.github.com/gists/a2641d295e239351a3368c4ca8cf9614)
+- [Analyze user activity in e-commerce website, lesson from Codecademy ](https://api.github.com/gists/b135997fb62dffc33efd3d98afd5cab9)
+- [My Hurricane Analysis from Codecademy python exercise](https://api.github.com/gists/cde39b8d5b509176258a2d43bc1519a0)
+- [Make sumItems a function that sums all the numbers in an array. So if you input the array [1, 2, 3, 4, 5], the function will return 15. This will be your base case.](https://api.github.com/gists/ecd702b916e1b9e53522784ef7741e92)
+- [Exercise in using closures](https://api.github.com/gists/4f7ddef08118687ce110500a77fc5bad)
+- [Write a sorting function (sometimes called a custom comparator), that sorts the above array first by the name ascending alphabetically, and in cases where the names are equal sort by descending age.](https://api.github.com/gists/693933ea7e05865eb4523161990954ac)
+- [returns name with second name first](https://api.github.com/gists/39a89bbdfa6b53c8dbc42a2d349c2d20)
+
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
