@@ -18,9 +18,11 @@ with open('README.md', 'r') as f:
   readme = f.read()
 
 # Use partition method to insert gists into readme file
-marker = '<!-- gists -->'
-before, marker, after = readme.partition(marker)
-new_readme_content = f"{before}{marker}\n{gist_md}\n{after}"
+start_marker = '<!-- gists -->'
+end_marker = '<!-- /gists -->'
+before, _, after = readme.partition(start_marker)
+_, _, after = after.partition(end_marker)
+new_readme_content = f"{before}{start_marker}\n{gist_md}\n{end_marker}{after}"
 
 with open('README.md', 'w') as f:
   f.write(new_readme_content)

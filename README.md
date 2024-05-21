@@ -291,7 +291,7 @@ Brought to you via my first GitHub Actions Workflow:
 - [Exercise in using closures](https://api.github.com/gists/4f7ddef08118687ce110500a77fc5bad)
 - [Write a sorting function (sometimes called a custom comparator), that sorts the above array first by the name ascending alphabetically, and in cases where the names are equal sort by descending age.](https://api.github.com/gists/693933ea7e05865eb4523161990954ac)
 - [returns name with second name first](https://api.github.com/gists/39a89bbdfa6b53c8dbc42a2d349c2d20)
-
+<!-- /gists -->
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
