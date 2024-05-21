@@ -4,21 +4,15 @@ with open('gists.json') as f:
   gists = json.load(f)
 
 sorted_gists = sorted(gists, key=lambda x: x['created_at'], reverse=True)
-filtered_gists = sorted_gists[:6]
-
-for gist in gists:
-  filtered_gists.append(gist)
 
 # Format gists into a list
 gist_md = '<ul>\n'
-for gist in filtered_gists:
+for gist in sorted_gists[:6]:
   for filename, fileinfo in gist['files'].items():
     gist_md += f"  <li><a href=\"{gist['html_url']}\">{filename}</a>\n"
     gist_md += f"    <p>{gist['description']}</p>\n"
     gist_md += f"  </li>\n"
 gist_md += '</ul>'
-
-gists_url = '\n'.join([f"- [{gist['description']}]({gist['url']})" for gist in gists])
 
 with open('README.md', 'r') as f:
   readme = f.read()
